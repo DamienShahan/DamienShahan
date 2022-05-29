@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DamienShahan
-- 👀 I’m interested in Azure, Cloud Computing, Data Science, Python, Machine Learning, Data Visualization and Algo Trading.
+- 👀 I’m interested in Cloud Computing, Azure, Data Science, Python, Machine Learning, Data Visualization and Algo Trading.
 - 📫 You can reach me via E-Mail (Damien.Shahan(at)gmail.com) or LinkedIn (www.linkedin.com/in/damien-shahan/).
 
 <!---
